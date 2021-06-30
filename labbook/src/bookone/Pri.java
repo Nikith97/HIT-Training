@@ -1,6 +1,6 @@
 package bookone;
 
- class Vase{
+class Vase{
 	Vase(){
 		int i = 100;
 		System.out.println(i);
